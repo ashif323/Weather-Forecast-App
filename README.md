@@ -45,7 +45,7 @@ This project uses the **[WeatherAPI](https://www.weatherapi.com/)** to fetch liv
 
 📡 API Reference
 This project uses WeatherAPI:
-Weather API Documentation
+https://www.weatherapi.com/docs/
 
 👨‍💻 Author
 Mohammad Ashif Iqbal
